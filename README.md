@@ -14,21 +14,26 @@ Begin by cloning this repository to your local machine.
 ```bash
 git clone <repository-url>
 cd <repository-directory>
+```
 ### Step 2: Set Up Virtual Environment
 Create a Python virtual environment.
 ```bash
 python3 -m venv venv
+```
 ### Step 3: Activate the Virtual Environment
 Activate the virtual environment.
 On Windows, use:
 ```bash
 venv\Scripts\activate
+```
 On Unix or MacOS, use:
 ```bash
 source venv/bin/activate
+```
 ### Step 4: Install Dependencies
 After activating the virtual environment, install the necessary dependencies.
 ```bash
 pip install -r requirements.txt
+```
 With these steps, you will have the dataset and all necessary Python libraries installed to start experimenting with the AZ Handwritten Alphabets Dataset.
 Enjoy exploring!
