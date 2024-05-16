@@ -12,8 +12,8 @@ Here are instructions to set up the dataset in your local Python environment for
 ### Step 1: Clone the Repository
 Begin by cloning this repository to your local machine.
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/Traianthai/Handwriting-recognition-using-CNN.git
+cd Handwriting-recognition-using-CNN
 ```
 ### Step 2: Set Up Virtual Environment
 Create a Python virtual environment.
